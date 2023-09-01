@@ -153,7 +153,7 @@ color: var(--navy-blue-dark);
 }
 /*section our team*/
 .section.team{
-  background-color:var(--cloud-light);
+  background-color:var(--white-background);
 }
 
 
@@ -170,7 +170,7 @@ color: var(--navy-blue-dark);
 .footer-text{
 font-size: 16px;
 line-height: 24px;
-letter: spacing 0.02em;;
+letter-spacing: 0.02em;
 
 color: var(--cloud-light);
 
