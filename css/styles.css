@@ -90,8 +90,9 @@ color: var(--navy-blue-dark);
 .hero-title{
 font-size: 56px;
 font-weight: 700;
-line-height: 60px;
+line-height:1.07;
 letter-spacing: 0.02em;
+text-align: center;
 
 color: var(--white-background);
 }
@@ -105,6 +106,9 @@ background-color: var(--navy-blue-dark);
   cursor: pointer;
   background-color: var(--iris-primary-brand);
   color: var(--white-background);
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   
 
   
@@ -133,7 +137,7 @@ color: var(--navy-blue-dark);
   font-weight: 400;
   line-height: 24px;
   letter-spacing:  0.02em;
-  color: var(--navy-blue-dark);
+  color:var(--slate-text);
 
   
 }
