@@ -125,8 +125,10 @@ background-color: var(--navy-blue-dark);
 .section .secondary-title{
 font-size: 36px;
 font-weight: 700;
-line-height: 40px;
+line-height:1.11;
 letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
 
 color: var(--navy-blue-dark);
 
@@ -168,7 +170,7 @@ color: var(--navy-blue-dark);
 .footer-text{
 font-size: 16px;
 line-height: 24px;
-letter-spacing:2%;
+letter: spacing 0.02em;;
 
 color: var(--cloud-light);
 
