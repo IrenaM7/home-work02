@@ -1,0 +1,19 @@
+:root{
+  --iris-primary-brand:rgba(77, 90, 229, 1);
+  --ocean-pressed-state:rgba(64, 75, 191, 1);
+  --navy-blue-dark:rgba(46, 47, 66, 1);
+  --green-succes:rgba(49, 208, 170, 1);
+  --slate-text:rgba(67, 68, 85, 1);
+  --light-slate-subtle-text:rgba(142, 143, 153, 1);
+  --corneflower-accent:rgba(231, 233, 252, 1);
+  --cloud-light:rgba(244, 244, 253, 1);
+  --navy-blue-modal:rgba(46, 47, 66, 0.4);
+  --grey-hero-background:rgba(46, 47, 66, 0.7);
+  --white-background:rgba(255, 255, 255, 1);
+  --dairy-modal-background:rgba(252, 252, 252, 1);
+}
+body {
+  color:var(--slate-text);
+  background-color:var()
+  font-family: "Roboto", sans-serif;
+}
