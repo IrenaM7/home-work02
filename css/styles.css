@@ -13,7 +13,7 @@
   --dairy-modal-background:#fcfcfc;
 }
 body {
-  color:var(--slate-text);
+  color:var(--navy-blue-dark);
   background-color:var(--white-background);
   font-family: "Roboto", sans-serif;
 }
@@ -34,7 +34,7 @@ body {
  font-weight:700;
  font-size:18px;
  line-height:21px;
- letter-spacing:3%;
+ letter-spacing: 0.03em;
  color: var(--iris-primary-brand);
 }
 .logo-studio{
@@ -42,30 +42,37 @@ body {
  font-weight:700;
  font-size:18px;
  line-height:21px;
- letter-spacing:3%;
+ letter-spacing: 0.03em;
  color: var(--navy-blue-dark);
 }
 .footer-logo{
-font-family: Raleway;
+font-family:"Raleway" ,sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 21px;
-letter-spacing:3%;
+letter-spacing: 0.03em;
 text-align: left;
 color: var(--cloud-light);
+}
+.site-nav .link:hover,
+.site-nav .link:focus,
+.addres .link:focus,
+.addres .link:hover{
+  color: var(--ocean-pressed-state);
+
 }
 
 .addres .link{
 font-size: 16px;
 line-height: 24px;
-letter-spacing:2%;
-color:var(--slate-text);
+letter-spacing:  0.02em;
+color: var(--slate-text);
 }
-.item-nav .link{
+.site-nav .link{
 font-size: 16px;
 font-weight: 500;
 line-height: 24px;
-letter-spacing:2%;
+letter-spacing: 0.02em;
 color: var(--navy-blue-dark);
 
 }
@@ -104,6 +111,10 @@ background-color: var(--navy-blue-dark);
   
   
 }
+.button-primary:hover,
+.button-primary:focus{
+  background-color: var(--ocean-pressed-state);
+}
 
 
 
@@ -114,15 +125,16 @@ font-weight: 700;
 line-height: 40px;
 letter-spacing: 0.02em;
 text-align: center;
-color:var(--navy-blue-dark);
+color: var(--navy-blue-dark);
+
 
 }
 .section .section-text{
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  letter-spacing:2%;
-  color:var(--navy-blue-dark);
+  letter-spacing:  0.02em;
+  color: var(--navy-blue-dark);
 
   
 }
@@ -130,8 +142,8 @@ color:var(--navy-blue-dark);
 font-size: 20px;
 font-weight: 500;
 line-height: 24px;
-letter-spacing:2%;
-color:var(--navy-blue-dark);
+letter-spacing:.02em;
+color: var(--navy-blue-dark);
 
 }
 /*section our team*/
