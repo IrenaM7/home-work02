@@ -123,7 +123,7 @@ background-color: var(--navy-blue-dark);
 
 .section .secondary-title{
 font-size: 36px;
-font-weight: 500;
+
 line-height:1.11;
 letter-spacing: 0.02em;
 text-align: center;
@@ -144,7 +144,7 @@ color: var(--navy-blue-dark);
 }
 .title{
 font-size: 20px;
-
+font-weight: 500;
 line-height: 24px;
 letter-spacing:.02em;
 color: var(--navy-blue-dark);
