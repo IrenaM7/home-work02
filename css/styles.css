@@ -40,7 +40,7 @@ body {
 }
 .logo-studio{
  font-family:"Raleway",sans-serif ;
- font-weight:700;
+ 
  font-size:18px;
  line-height:1.17;
  letter-spacing: 0.03em;
@@ -50,7 +50,7 @@ body {
 .footer-logo{
 font-family:"Raleway" ,sans-serif;
 font-size: 18px;
-font-weight: 700;
+
 line-height: 21px;
 letter-spacing: 0.03em;
 
@@ -64,7 +64,7 @@ color: var(--cloud-light);
 
 }
 .address{
-  font-style: normal;
+  
 }
 
 .addres .link{
@@ -124,7 +124,7 @@ background-color: var(--navy-blue-dark);
 
 .section .secondary-title{
 font-size: 36px;
-font-weight: 700;
+
 line-height:1.11;
 letter-spacing: 0.02em;
 text-align: center;
@@ -136,7 +136,7 @@ color: var(--navy-blue-dark);
 }
 .section .section-text{
   font-size: 16px;
-  font-weight: 400;
+  
   line-height: 24px;
   letter-spacing:  0.02em;
   color:var(--slate-text);
@@ -145,7 +145,7 @@ color: var(--navy-blue-dark);
 }
 .title{
 font-size: 20px;
-font-weight: 500;
+
 line-height: 24px;
 letter-spacing:.02em;
 color: var(--navy-blue-dark);
